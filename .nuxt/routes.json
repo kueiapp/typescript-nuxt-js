@@ -1,0 +1,20 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/kuei/Projects/vue-nuxt-js/typescript-nuxt-js/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "todo",
+    "path": "/todo",
+    "component": "/Users/kuei/Projects/vue-nuxt-js/typescript-nuxt-js/pages/todo.vue",
+    "chunkName": "pages/todo"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kuei/Projects/vue-nuxt-js/typescript-nuxt-js/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
